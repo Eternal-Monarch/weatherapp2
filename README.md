@@ -43,10 +43,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![Alt Text](https://github.com/Eternal-Monarch/weatherapp2/blob/main/Screenshot_20230709_234740.png)
 
-
-![Alt Text](https://github.com/Eternal-Monarch/weatherapp2/blob/main/Screenshot_20230709_232625.png)
 
 ![Alt Text](https://github.com/Eternal-Monarch/weatherapp2/blob/main/Screenshot_20230710_021339.png)
 
